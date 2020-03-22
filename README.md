@@ -125,6 +125,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 19 | [@docligot](https://github.com/docligot)/[**coronatracker-analytics**](https://github.com/docligot/coronatracker-analytics) | Analysis and reports based on novel coronavirus (nCoV-2019) data.  |
  | 15 | [@lazargugleta](https://github.com/lazargugleta)/[**coronavirusStats**](https://github.com/lazargugleta/coronavirusStats) | Track data for Coronavirus for your country. |
  | 8 | [@joaotinti75](https://github.com/joaotinti75)/[**Coronavirus**](https://github.com/joaotinti75/Coronavirus) | this code uses a daily database to display data in the form of a graph and map using the libraries matplotlib and folium |
+ | 1 | [@entorb](https://github.com/entorb)/[**COVID-19-Coronavirus-German-Regions**](https://github.com/entorb/COVID-19-Coronavirus-German-Regions) | time series and plots including exponential curve fittings and doubling rates, focused on Germany |
 
 #### Models
 
